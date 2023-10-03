@@ -7,6 +7,15 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+*.zip
+*.gz
+*.csv
+*.gzip
+*.feather
+*.geofeather
+*.parquet
+*.geoparquet
+data/
 .Python
 build/
 develop-eggs/
